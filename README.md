@@ -19,6 +19,14 @@ It continuously samples a process' resident set size and renders a live scrollin
 memplot <pid>
 ```
 
+## Install
+
+Get it from releases, or execute the following `curl` command:
+
+```bash
+curl -L https://github.com/simone-lungarella/memplot/releases/latest/download/memplot-x86_64-unknown-linux-gnu.tar.gz | tar xz
+```
+
 ## Example
 
 ![Example](./showcase.png)
